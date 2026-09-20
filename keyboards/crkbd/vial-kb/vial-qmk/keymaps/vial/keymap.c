@@ -1,4 +1,5 @@
 #include QMK_KEYBOARD_H
+#include "vial_ensure_keycode.h"
 
 
 #ifdef LAYOUT_split_3x6_3_ex2
